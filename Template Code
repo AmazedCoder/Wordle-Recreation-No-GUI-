@@ -1,0 +1,24 @@
+#Wordle Recreation
+#Coding language: Python 3
+
+import random
+
+#List of 5 Letter Words
+global words
+words = ["teach", "heart", "queen", "those", "apple"]
+
+#Make the variables 
+
+
+#Define the function that picks a random word 
+
+  #First, pick a number as 'num'
+
+  #Then, in the 'words' array, find 'num' and put it in 'answer'
+
+#Define the function that checks if the inputted letter is in the answer
+
+#Define the function that checks if the word is correct
+
+
+#Main Loop
