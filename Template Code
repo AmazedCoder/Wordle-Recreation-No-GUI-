@@ -4,7 +4,6 @@
 import random
 
 #List of 5 Letter Words
-global words
 words = ["teach", "heart", "queen", "those", "apple"]
 
 #Make the variables 
