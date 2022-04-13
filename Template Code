@@ -13,8 +13,7 @@ words = ["teach", "heart", "queen", "those", "apple"]
 #First, pick a number as 'number'
 
 
-#Then, in the 'words' array, find 'number' and put it in 'answer'
-
+#Then, in the 'words' array, pick a random word  
 
 #Define the function that checks if the inputted letter is in the answer
 
